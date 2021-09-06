@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- My favourite books
+  - Harry Potter
+  - Yeonmi Park
+  - How to Win Friends and Influence People
+- My favourite food
+  - cheese
+  - sushi
+  - ramen
